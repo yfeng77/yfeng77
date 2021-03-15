@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yingqi Feng
 - 👀 I’m interested in web and app development
 - 🌱 I’m currently studying computer science at Florida Atlantic University
-- 💞️ I’m looking for a job or an intern realted to computer science major
+- 💞️ I’m looking for a job or an intern related to my major
 - 📫 Email:yfeng2016@fau.edu 
 
 <!---
