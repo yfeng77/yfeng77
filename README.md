@@ -2,7 +2,7 @@
 - 👀 I’m interested in web and app development
 - 🌱 I’m currently studying computer science at Florida Atlantic University
 - 💞️ I’m looking for a job or an intern related to my major
-- 📫 Email:yfeng2016@fau.edu 
+- 📫 Email: yfeng2016@fau.edu 
 
 <!---
 yfeng77/yfeng77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
