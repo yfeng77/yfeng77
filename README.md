@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yingqi Feng
-- 👀 I’m interested in web and app development
-- 🌱 I’m currently studying computer science at Florida Atlantic University
-- 💞️ I’m looking for a job or an intern related to my major
+- 👀 I’m currently studying computer science at Florida Atlantic University as a PH.D student
+- 🌱 My current research direction is Spatiotemporal machine learning
+- 💞️ I expect to graduate on August 2026, please contact me if there is an internship opportunity related to my major
 - 📫 Email: yfeng2016@fau.edu 
 
 <!---
